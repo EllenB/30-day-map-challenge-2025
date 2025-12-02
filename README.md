@@ -9,14 +9,14 @@ Thank you,
 Ellen
 
 
-## Day 29
+## Day 29 - Raster
 
 [code](day_29/raster_pystac.ipynb)
 
 ![alt text](day_29/nilgiris.png)
 
-## Day 30 
+## Day 30 - Remake
 
-[code](day_30/raster_pystac.ipynb)
+[code](day_30/day_30_dem_nilgiris.ipynb)
 
-![alt text](day_30/nilgiris_clipped.png)
+![alt text](day_30/nilgir_clipped.png)
