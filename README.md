@@ -19,4 +19,4 @@ Ellen
 
 [code](day_30/day_30_dem_nilgiris.ipynb)
 
-![alt text](day_30/nilgir_clipped.png)
+![alt text](day_30/nilgiris_clipped.png)
