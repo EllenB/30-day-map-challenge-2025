@@ -28,6 +28,10 @@ Ellen
 
 ![alt text](day_05/day_05_earth.png)
 
+## Day 6 - Dimensions - Python using the ridge-map package
+
+![alt text](day_06/day_06_dimensions.png)
+
 ## Day 29 - Raster - Python
 
 [code](day_29/raster_pystac.ipynb)
