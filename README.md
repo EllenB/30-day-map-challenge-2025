@@ -20,6 +20,10 @@ Ellen
 
 ![alt text](day_03/day_03_polygons.png)
 
+## Day 4 - My data - Data extraction in QGIS and Python/map in Python
+
+![alt text](day_04/day_04_my_data.png)
+
 ## Day 29 - Raster - Python
 
 [code](day_29/raster_pystac.ipynb)
