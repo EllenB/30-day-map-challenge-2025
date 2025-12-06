@@ -16,6 +16,10 @@ Ellen
 
 ![alt text](day_02/day_02_lines.png)
 
+## Day 3 - Polygons - Python
+
+![alt text](day_02/day_03_polygons.png)
+
 ## Day 29 - Raster - Python
 
 [code](day_29/raster_pystac.ipynb)
