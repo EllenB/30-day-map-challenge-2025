@@ -8,6 +8,9 @@ Thank you,
 
 Ellen
 
+## Day 1 - Points
+
+![alt text](day_01/day_01_points.png)
 
 ## Day 29 - Raster
 
