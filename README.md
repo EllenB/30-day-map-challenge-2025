@@ -18,7 +18,7 @@ Ellen
 
 ## Day 3 - Polygons - Python
 
-![alt text](day_02/day_03_polygons.png)
+![alt text](day_03/day_03_polygons.png)
 
 ## Day 29 - Raster - Python
 
