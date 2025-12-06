@@ -24,6 +24,10 @@ Ellen
 
 ![alt text](day_04/day_04_my_data.png)
 
+## Day 5 - Earth - QGIS
+
+![alt text](day_05/day_05_earth.png)
+
 ## Day 29 - Raster - Python
 
 [code](day_29/raster_pystac.ipynb)
