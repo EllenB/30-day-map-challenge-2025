@@ -28,9 +28,13 @@ Ellen
 
 ![alt text](day_05/day_05_earth.png)
 
-## Day 6 - Dimensions - Python using the ridge-map package
+## Day 7 - Accessibility - Python
 
-![alt text](day_06/day_06_dimensions.png)
+![alt text](day_07/day_07_accessibility.png)
+
+## Day 27 - Boundares - Python
+
+![alt text](day_27/day_27_boundaries.png)
 
 ## Day 29 - Raster - Python
 
