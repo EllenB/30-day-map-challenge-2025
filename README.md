@@ -32,7 +32,7 @@ Ellen
 
 ![alt text](day_07/day_07_accessibility.png)
 
-## Day 27 - Boundares - Python
+## Day 27 - Boundares - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
 
