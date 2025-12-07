@@ -38,7 +38,7 @@ Ellen
 
 ## Day 28 - Black - Python
 
-![alt text](day_28/day_27_black.png)
+![alt text](day_28/day_28_black.png)
 
 ## Day 29 - Raster - Python
 
