@@ -32,9 +32,13 @@ Ellen
 
 ![alt text](day_07/day_07_accessibility.png)
 
-## Day 27 - Boundares - QGIS
+## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
+
+## Day 28 - Black - Python
+
+![alt text](day_28/day_27_black.png)
 
 ## Day 29 - Raster - Python
 
