@@ -28,6 +28,12 @@ Ellen
 
 ![alt text](day_05/day_05_earth.png)
 
+## Day 6 - Dimensions - Python using the ridge-map package
+
+[code](day_06/day_6.ipynb)
+
+![alt text](day_06/day_06_dimension.png)
+
 ## Day 7 - Accessibility - Python
 
 ![alt text](day_07/day_07_accessibility.png)
@@ -37,6 +43,12 @@ Ellen
 [code](day_08/day_8_urban.ipynb)
 
 ![alt text](day_08/day_08_urban.png)
+
+## Day 9 - Analog - Thanks to my daughter!
+
+![alt-text-1](day_09/day_09_b.png) ![alt-text-2](day_09/day_09_d.png)
+
+## Day 10: 
 
 ## Day 27 - Boundaries - QGIS
 
