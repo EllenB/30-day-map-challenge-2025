@@ -87,6 +87,14 @@ Ellen
 
 ![alt text](day_18/day_18_out_of_world.png)
 
+## Day 19: Projections - Python 
+
+![alt text](day_19/day_19_projections.png)
+
+## Day 20: Water - Python 
+
+![alt text](day_20/day_20_water.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
