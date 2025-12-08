@@ -36,7 +36,7 @@ Ellen
 
 [code](day_08/day_8_urban.ipynb)
 
-![alt text](day_08/day_08_accessibility.png)
+![alt text](day_08/day_08_urban.png)
 
 ## Day 27 - Boundaries - QGIS
 
