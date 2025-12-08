@@ -32,7 +32,7 @@ Ellen
 
 [code](day_06/day_6.ipynb)
 
-![alt text](day_06/day_06_dimension.png)
+![alt text](day_06/day_06_dimensions.png)
 
 ## Day 7 - Accessibility - Python
 
@@ -46,7 +46,7 @@ Ellen
 
 ## Day 9 - Analog - Thanks to my daughter!
 
-![alt-text-1](day_09/day_09_b.png) ![alt-text-2](day_09/day_09_d.png)
+![alt-text-1](day_09/day_09_b.jpeg) ![alt-text-2](day_09/day_09_d.jpeg)
 
 ## Day 10: 
 
