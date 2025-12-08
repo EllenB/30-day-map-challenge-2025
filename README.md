@@ -63,6 +63,11 @@ Ellen
 
 ![alt text](day_12/day_12_2125.png)
 
+## Day 13: 10 minute map - QGIS
+
+![alt text](day_13/day_13_10min.png)
+
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
