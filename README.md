@@ -83,6 +83,10 @@ Ellen
 
 ![alt text](day_17/day_17_newtool.png)
 
+## Day 18: Out of this world - Python 
+
+![alt text](day_18/day_18_out_of_world.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
