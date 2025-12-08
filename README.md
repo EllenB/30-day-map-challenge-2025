@@ -81,7 +81,7 @@ Ellen
 
 ## Day 17: New tool - Python using the RiverDem package
 
-![alt text](day_17/day_17_new_tool.png)
+![alt text](day_17/day_17_newtool.png)
 
 ## Day 27 - Boundaries - QGIS
 
