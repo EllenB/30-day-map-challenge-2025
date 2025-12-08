@@ -55,6 +55,10 @@ Ellen
 
 ![alt text](day_10/day_10_air.png)
 
+## Day 11: Minimal - Python
+
+![alt text](day_11/day_11_minimal.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
