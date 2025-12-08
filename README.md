@@ -71,6 +71,10 @@ Ellen
 
 ![alt text](day_14/day_14_OSM.png)
 
+## Day 15: Fire - QGIS
+
+![alt text](day_15/day_15_fire.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
