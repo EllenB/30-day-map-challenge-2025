@@ -67,6 +67,9 @@ Ellen
 
 ![alt text](day_13/day_13_10mins.png)
 
+## Day 14: Open Street Map - QGIS
+
+![alt text](day_14/day_14_OSM.png)
 
 ## Day 27 - Boundaries - QGIS
 
