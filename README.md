@@ -59,6 +59,10 @@ Ellen
 
 ![alt text](day_11/day_11_minimal.png)
 
+## Day 12: Map from 2125 - Python
+
+![alt text](day_12/day_12_2125.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
