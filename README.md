@@ -46,7 +46,10 @@ Ellen
 
 ## Day 9 - Analog - Thanks to my daughter!
 
-![alt-text-1](day_09/day_09_b.jpeg) ![alt-text-2](day_09/day_09_d.jpeg)
+<p align="center">
+  <img src="day_09/day_09_b.jpeg" width="45%" />
+  <img src="day_09/day_09_d.jpeg" width="45%" />
+</p>
 
 ## Day 10: 
 
