@@ -32,6 +32,12 @@ Ellen
 
 ![alt text](day_07/day_07_accessibility.png)
 
+## Day 8 - Urban - Python
+
+[code](day_08/day_8_urban.ipynb)
+
+![alt text](day_08/day_08_accessibility.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
