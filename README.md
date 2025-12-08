@@ -75,6 +75,10 @@ Ellen
 
 ![alt text](day_15/day_15_fire.png)
 
+## Day 16: Cells - Python
+
+![alt text](day_16/day_16_cells.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
