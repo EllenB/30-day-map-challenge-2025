@@ -95,9 +95,29 @@ Ellen
 
 ![alt text](day_20/day_20_water.png)
 
-## Day 21: Water - QGIS
+## Day 21: Icons - QGIS
 
 ![alt text](day_21/day_21_icons.png)
+
+## Day 21: Icons - QGIS
+
+![alt text](day_21/day_21_icons.png)
+
+## Day 22: Natural Earth - Skipped
+
+Due to time constraint :blush:
+
+## Day 23: Process
+
+See day 29
+
+## Day 24: Places and their names - Skipped
+
+Due to time constraint :blush:
+
+## Day 25: Hexagons - Python
+
+![alt text](day_25/day_25_hexagons.png)
 
 ## Day 27 - Boundaries - QGIS
 
