@@ -95,6 +95,10 @@ Ellen
 
 ![alt text](day_20/day_20_water.png)
 
+## Day 21: Water - QGIS
+
+![alt text](day_21/day_21_icons.png)
+
 ## Day 27 - Boundaries - QGIS
 
 ![alt text](day_27/day_27_boundaries.png)
