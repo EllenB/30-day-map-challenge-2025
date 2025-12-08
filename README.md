@@ -51,7 +51,9 @@ Ellen
   <img src="day_09/day_09_d.jpeg" width="45%" />
 </p>
 
-## Day 10: 
+## Day 10: Air - Python
+
+![alt text](day_10/day_10_air.png)
 
 ## Day 27 - Boundaries - QGIS
 
