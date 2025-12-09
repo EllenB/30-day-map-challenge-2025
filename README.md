@@ -85,6 +85,8 @@ Ellen
 
 ## Day 18: Out of this world - Python 
 
+[code](day_18/day_18_out_of_this_world_b.ipynb)
+
 ![alt text](day_18/day_18_out_of_world.png)
 
 ## Day 19: Projections - Python 
