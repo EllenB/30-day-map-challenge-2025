@@ -18,6 +18,8 @@ Ellen
 
 ## Day 3 - Polygons - Python
 
+[code](day_03/india_biogeographic_regions_c.ipynb)
+
 ![alt text](day_03/day_03_polygons.png)
 
 ## Day 4 - My data - Data extraction in QGIS and Python/map in Python
