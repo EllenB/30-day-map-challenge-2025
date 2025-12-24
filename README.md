@@ -55,7 +55,7 @@ Ellen
 
 ## Day 10: Air - Python
 
-[code](day_10/day_10_plot_air_temperature_b.ipynb)
+[code](day_10/day_10_plot_air_temperature_c.ipynb)
 
 ![alt text](day_10/day_10_air.png)
 
